@@ -1,0 +1,136 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+.navbar{
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    gap: 45px;
+    justify-content: center;
+    font-weight: 300;
+    
+
+}
+.whitecolor{
+    color:  rgba(245, 245, 247, 1);
+    
+}
+.container{
+    width: 1512px;
+    margin: 0 auto;
+}
+.title-text-big{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 0.28px;
+    color: rgba(29, 29, 31, 1);
+    margin: 0;
+}
+.nav-logo{
+    cursor: pointer;
+
+}
+.nav-menu{
+    display: flex;
+    gap: 45px;
+    align-items: center;
+    
+}
+.nav-menu img{
+    cursor: pointer;
+}
+   
+.nav-menu-item{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(251, 251, 253, 1);
+}
+
+.header-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header-text h1{
+    padding-top: 51px;
+    padding-bottom: 1px;
+}
+.big-buttons{
+    display: flex;
+    gap: 40px;
+}
+.pragrap-text-big{
+    font-size: 28px;
+    line-height: 31px;
+    color: rgba(29, 29, 31, 1);
+    font-weight: 400;
+    margin: 0;
+
+}
+.big-button{
+    text-decoration: none;
+    color:  rgba(0, 102, 204, 1);
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    letter-spacing: 0.28px;
+
+}
+.iphone14pro-max{
+    background: rgba(0, 0, 0, 1);
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 10px;
+}
+.header-img{
+    /* width: 43.5%; */
+}
+
+.iphone-14pro-text{
+    position: absolute;
+    
+
+}
+.watch-ultra{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    background: rgb(251, 251, 253);
+}
+.watch-ultra-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.watch-ultra-row-text{
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: 400;
+    letter-spacing: 0.11px;
+    margin: 0;
+    padding-top: 12px;
+}
+.watch-8{
+    position: relative;
+}
+.watch-8-row{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.flex-item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
